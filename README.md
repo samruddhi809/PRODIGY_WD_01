@@ -1,2 +1,2 @@
 # Prodigy Internship
-Task 02: StopWatch 
+Task 01: StopWatch 
